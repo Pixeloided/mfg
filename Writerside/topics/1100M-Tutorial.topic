@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Tormach 1100M" id="1100M-Tutorial">
+
+    <p>
+        The Tormach 1100M is a great machine for getting started with true CNC Machining. It is versatile, easy to learn, and quite powerful to get started out on.
+    </p>
+
+    <p>
+        In these series of lessons, you will learn the ropes of this machine. Starting with a simple domino, you will work your way up to more complex parts, learning everything from toolpath generation to fixturing techniques. Please pay attention carefully and follow all steps provided, as to not cause damage to the machine.
+    </p>
+
+    <show-structure for="chapter,procedure" depth="2" />
+
+    <seealso style="cards">
+        <category ref="related">
+            <a href="Beginner.topic">🟢 Beginner Course</a>
+            <a href="Beginner.topic">🟠 Intermediate Course</a>
+            <a href="Beginner.topic">🔴 Advanced Course</a>
+        </category>
+
+        <category ref="external">
+            <a href="https://tormach.com/docs/download/assetlink/asset_id/1">Tormach Manual</a>
+        </category>
+    </seealso>
+
+    <chapter title="Beginner Course Overview" id="basic-course-overview" collapsible="true">
+        <p>In the beginner course, you will kickstart your skills by creating a custom domino project.</p>
+        <procedure title="CAM Basics">
+            <step>Create a basic domino model, with constraints in mind</step>
+            <step>Generate proper toolpaths that can easily be run</step>
+        </procedure>
+        <procedure title="Machine Safety">
+            <step>Learn the proper safety procedures and protocols, in order to keep yourself and the equipment safe</step>
+        </procedure>
+        <procedure title="Machine and Software Outline">
+            <step>Learn the outline of the machine's buttons, switches, and inputs.</step>
+            <step>Learn how to start up and shut down the machine</step>
+            <step>Learn the basics of the Tormach PathPilot Software and interface</step>
+        </procedure>
+        <procedure title="Basic Fixturing and Operation">
+            <step>Learn how to jog, change tools, and load operations</step>
+            <step>Learn proper methods to secure your part to the machine</step>
+            <step>Learn how to manually find part zeroes</step>
+            <step>Learn how to run your operations safely and effectively</step>
+        </procedure>
+    </chapter>
+
+    <chapter title="Intermediate Course Overview" id="inter-course-overview" collapsible="true">
+        <p>In the intermediate course, you will create a custom multipart design to be machined.</p>
+        <procedure title="Advanced CAM">
+            <step>Lean how to know if your model is machinable</step>
+            <step>Learn advanced operations in CAM</step>
+            <step>Learn how to manipulate toolpaths to your constraints</step>
+        </procedure>
+        <procedure title="In-depth PathPilot">
+            <step>Learn more advanced interfaces and options within PathPilot</step>
+        </procedure>
+        <procedure title="Intermediate Fixturing and Operation">
+            <step>Learn to determine the proper way to fixture your part</step>
+            <step>Learn how to use the viewport to determine information about your processes</step>
+        </procedure>
+    </chapter>
+
+    <chapter title="Advanced Course Overview" id="adv-course-overview" collapsible="true">
+        <p>In the Advanced course, you will create a chess piece with both the CNC lathe and the mill.</p>
+        <procedure title="Offshoot: Basics of the Lathe">
+            <step>You will be directed to the beginner lathe course, and use your previous knowledge of the mill to create the body of a chess piece.</step>
+        </procedure>
+        <procedure title="Probing and Advanced Workholding">
+            <step>Learn how to use the active probe to more easily find stock positions, especially with circular parts</step>
+            <step>Lean how to use a collet block to allow yourself to mill circular parts</step>
+        </procedure>
+    </chapter>
+</topic>

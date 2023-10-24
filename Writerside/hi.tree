@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Sehome Manufacturing Docs"
+                 start-page="Intro.topic">
+
+    <toc-element topic="Intro.topic"/>
+    <toc-element topic="1100M-Tutorial.topic">
+        <toc-element topic="Beginner.topic"/>
+    </toc-element>
+</instance-profile>
