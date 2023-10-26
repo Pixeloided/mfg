@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="CAD / CAM Basics" id="CAD-CAM-Basics" help-id="CAM-Basics">
+
+    <tldr>
+        <p>In this lesson, we will create a 3d model of a domino in fusion 360, as well as its toolpaths in order to machine it.</p>
+    </tldr>
+
+    <res resource-id="domino" />
+
+    <chapter title="Prerequisites" id="prerequisites">
+        <p>
+            In order to start this lesson, please know at least the following:
+        </p>
+        <list>
+            <li>Basic knowledge of Fusion 360</li>
+        </list>
+    </chapter>
+
+    <procedure title="Modeling the Domino">
+        <step>
+            Under the "insert" menu in fusion 360, click "Insert DXF." Insert onto the X-Y Plane (Flat on the floor)
+        </step>
+        <step>
+
+        </step>
+    </procedure>
+
+</topic>

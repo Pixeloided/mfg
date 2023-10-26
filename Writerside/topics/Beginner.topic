@@ -5,5 +5,12 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Beginner Course" id="Beginner" help-id="Beginner-Domino">
 
-    <p>Start typing here...</p>
+    <tldr>
+        <p>In the beginner course, you will kickstart your skills by creating a custom domino project. Click the link below to get started.</p>
+        <p>
+            <a href="CAD-CAM-Basics.topic">Get Started Here!</a>
+        </p>
+    </tldr>
+    
+    <include from="1100M-Tutorial.topic" element-id="basic-course-overview" />
 </topic>

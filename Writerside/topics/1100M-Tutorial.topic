@@ -29,7 +29,7 @@
 
     <chapter title="Beginner Course Overview" id="basic-course-overview" collapsible="true">
         <p>In the beginner course, you will kickstart your skills by creating a custom domino project.</p>
-        <procedure title="CAM Basics">
+        <procedure title="CAD / CAM Basics">
             <step>Create a basic domino model, with constraints in mind</step>
             <step>Generate proper toolpaths that can easily be run</step>
         </procedure>

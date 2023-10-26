@@ -2,12 +2,16 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi"
+<instance-profile id="shs-mfg"
                  name="Sehome Manufacturing Docs"
-                 start-page="Intro.topic">
+                 start-page="Intro.topic"
+                  status="release">
 
     <toc-element topic="Intro.topic"/>
     <toc-element topic="1100M-Tutorial.topic">
-        <toc-element topic="Beginner.topic"/>
+        <toc-element topic="Beginner.topic">
+            <toc-element topic="CAD-CAM-Basics.topic"/>
+        </toc-element>
     </toc-element>
+    <toc-element topic="Glossary.topic"/>
 </instance-profile>
