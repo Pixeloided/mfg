@@ -17,14 +17,14 @@
 
     <seealso style="cards">
         <category ref="related">
-            <a href="Beginner.topic">🟢 Beginner Course</a>
-            <a href="Beginner.topic">🟠 Intermediate Course</a>
-            <a href="Beginner.topic">🔴 Advanced Course</a>
+            <a href="CAD-CAM-Basics.topic">🟢 Beginner Course - Start Here</a>
+<!--            <a href="Beginner.topic">🟠 Intermediate Course</a>-->
+<!--            <a href="Beginner.topic">🔴 Advanced Course</a>-->
         </category>
 
-        <category ref="external">
-            <a href="https://tormach.com/docs/download/assetlink/asset_id/1">Tormach Manual</a>
-        </category>
+<!--        <category ref="external">-->
+<!--            <a href="https://tormach.com/docs/download/assetlink/asset_id/1">Tormach Manual</a>-->
+<!--        </category>-->
     </seealso>
 
     <chapter title="Beginner Course Overview" id="basic-course-overview" collapsible="true">

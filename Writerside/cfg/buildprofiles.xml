@@ -1,16 +1,18 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
     <variables>
         <header-logo>sehome-logo.png</header-logo>
-<!--        <custom-favicons>logo.png</custom-favicons>-->
+        <color-preset>Vivid</color-preset>
+        <primary-color>forest</primary-color>
+        <web-root>https://www.rhenkel.me/mfg/</web-root>
+        <download-page />
     </variables>
-    <build-profile instance="instance_id"/>
+
+    <build-profile instance="shs-mfg" />
+
     <footer>
-        <copyright>Robert Henkel 2023</copyright>
+        <copyright>Robert Henkel 2023 </copyright>
     </footer>
-    <build-profile instance="hi">
-        <variables>
-            <noindex-content>true</noindex-content>
-        </variables>
-    </build-profile>
+
 </buildprofiles>

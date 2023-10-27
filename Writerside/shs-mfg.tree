@@ -3,14 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="shs-mfg"
-                 name="Sehome Manufacturing Docs"
+                 name="SHS Shop Curriculum"
                  start-page="Intro.topic"
-                  status="release">
+                  status="eap">
 
     <toc-element topic="Intro.topic"/>
     <toc-element topic="1100M-Tutorial.topic">
-        <toc-element topic="Beginner.topic">
-            <toc-element topic="CAD-CAM-Basics.topic"/>
+        <toc-element toc-title="Beginner Course">
+            <toc-element topic="CAD-CAM-Basics.topic" toc-title="CAD &amp; CAM"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Glossary.topic"/>
