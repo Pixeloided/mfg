@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Machine Safety" id="Machine-Safety">
+
+        <tldr>
+            <p>In this lesson, we will learn how to remain safe around the machine.</p>
+        </tldr>
+
+        <chapter title="Prerequisites" id="prerequisites">
+            <p>To start the lesson, please know at least the following:</p>
+            <list>
+                <li>Basic understanding of CNC machines &amp; their parts</li>
+            </list>
+        </chapter>
+
+        <chapter title="Lesson" id="lesson">
+            <tip>
+                <p>Any machine tool is potentially dangerous. A CNC machine's
+                    automation presents added risk not present in a manual
+                    machine.</p>
+                <p>You can download the safety section of the manual here:</p>
+                <res resource-id="tormach-safety"/>
+            </tip>
+            <procedure title="Layout of the machine">
+                <step>Find the on/off toggle</step>
+                <step>Find the emergency stop</step>
+                <step>Find the compressed air hose</step>
+                <step>Notice the lack of door switch</step>
+                <step>Find the reset button</step>
+            </procedure>
+            <procedure title="Best Practices">
+                <step>What is the proper procedure if the machine crashes?</step>
+                <step>What is the best way to protect yourself from sharp chips and excess coolant?</step>
+                <step>Recognize proper attire: Tie up long hair, wear close-toed shoes, and no excessively baggy clothing.</step>
+                <step>Recognize the importance of a clean work area.</step>
+            </procedure>
+            <procedure title="DO's">
+                <step>Keep the work area clean and free of clutter. Machine
+                    motion can occur if controls are accidentally activated.
+                </step>
+                <step>Immediately clean up all spills after they occur.</step>
+                <step>Understand that the machine is automatically controlled
+                    and can start at any time.</step>
+                <step>Become familiar with all physical and software controls</step>
+                <step>Always use a chip scraper or brush when clearing away
+                    chips, oil, or coolant.
+                </step>
+                <step>Examine all tools, fixtures, workpieces, and guarding for
+                    signs of damage. Replace any damaged components as
+                    soon as you find them.
+                    The enclosure and other guards may not stop all types of
+                    projectiles, like broken tools or loose workpieces.
+                </step>
+                <step>Stop the machine and verify that all machine motion has
+                    completely stopped before taking any manual action within the machine enclosure.
+                </step>
+                <step>When machining an unproven operation, use the proper precautions, incuding e feed, speed,
+                    and maximum velocity overrides, Distance-to-Go (DTG)
+                    displays, single block, feed hold, and other control
+                    features.
+                </step>
+                <step>Follow all machine standards, and do not deviate from standard operating procedures.</step>
+                <step>Respect the machine and it's capabilities</step>
+            </procedure>
+            <procedure title="DONT's">
+                <step>Never operate the machine after consuming alcohol or
+                    taking medication that could prevent you from safely
+                    operating the machine.</step>
+                <step>Never operate the machine while tired or otherwise impaired.</step>
+                <step>Never enter the machining envelope.</step>
+                <step>Never reach around a guard.</step>
+                <step>Never let the machine run fully unattended (Lights-out operation is NOT permitted.)</step>
+                <step>Never obstruct the Emergency Stop button or any other controls.</step>
+                <step>Never let an untrained operator monitor, manage, or use the machine.</step>
+                <step>Never modify, defeat, or bypass safety devices or interlocks.</step>
+                <step>Never machine abrasive, carcinogenic, explosive, flammable, radioactive, or toxic materials.</step>
+                <step>Never allow swarf (chips) to accumulate on or within the machine.</step>
+                <step>Never use water, coolants without rust inhibitors, or straight cutting oil in the machine’s coolant system.</step>
+                <step>Never modify the machine's electronics</step>
+                <step>Never conduct horseplay around or near the machine.</step>
+            </procedure>
+        </chapter>
+</topic>
