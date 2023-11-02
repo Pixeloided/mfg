@@ -22,7 +22,8 @@
 
     <procedure title="Modeling the Domino">
         <step>
-            <p>Download <res resource-id="domino"/> and insert it into the document on the X-Y Plane (Flat on the floor)</p>
+            Download the file and insert it into the document on the X-Y Plane (Flat on the floor)
+            <res resource-id="domino"/>
         </step>
     </procedure>
 

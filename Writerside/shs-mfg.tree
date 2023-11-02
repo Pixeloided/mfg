@@ -11,6 +11,7 @@
     <toc-element topic="1100M-Tutorial.topic">
         <toc-element toc-title="Beginner Course">
             <toc-element topic="CAD-CAM-Basics.topic" toc-title="CAD &amp; CAM"/>
+            <toc-element topic="Machine-Safety.topic" toc-title="Safety" />
         </toc-element>
     </toc-element>
     <toc-element topic="Glossary.topic"/>

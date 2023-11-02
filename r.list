@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE resources
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/resources.dtd">
-<resources>
-    <resource id="domino" file="domino.dxf" />
-    <resource id="tormach-safety" file="Tormach 1100M® Safety.pdf" />
-</resources>

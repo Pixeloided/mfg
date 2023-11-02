@@ -9,6 +9,8 @@
             <p>In this lesson, we will learn how to remain safe around the machine.</p>
         </tldr>
 
+        <show-structure for="chapter,procedure" depth="2" />
+
         <chapter title="Prerequisites" id="prerequisites">
             <p>To start the lesson, please know at least the following:</p>
             <list>
@@ -38,37 +40,19 @@
                 <step>Recognize the importance of a clean work area.</step>
             </procedure>
             <procedure title="DO's">
-                <step>Keep the work area clean and free of clutter. Machine
-                    motion can occur if controls are accidentally activated.
-                </step>
-                <step>Immediately clean up all spills after they occur.</step>
-                <step>Understand that the machine is automatically controlled
-                    and can start at any time.</step>
+                <step>Always keep the work area clean and free of clutter. Machine motion can occur if controls are accidentally activated.</step>
+                <step>Always immediately clean up all spills after they occur.</step>
+                <step>Be aware that the machine is automatically controlled and can start at any time.</step>
                 <step>Become familiar with all physical and software controls</step>
-                <step>Always use a chip scraper or brush when clearing away
-                    chips, oil, or coolant.
-                </step>
-                <step>Examine all tools, fixtures, workpieces, and guarding for
-                    signs of damage. Replace any damaged components as
-                    soon as you find them.
-                    The enclosure and other guards may not stop all types of
-                    projectiles, like broken tools or loose workpieces.
-                </step>
-                <step>Stop the machine and verify that all machine motion has
-                    completely stopped before taking any manual action within the machine enclosure.
-                </step>
-                <step>When machining an unproven operation, use the proper precautions, incuding e feed, speed,
-                    and maximum velocity overrides, Distance-to-Go (DTG)
-                    displays, single block, feed hold, and other control
-                    features.
-                </step>
-                <step>Follow all machine standards, and do not deviate from standard operating procedures.</step>
-                <step>Respect the machine and it's capabilities</step>
+                <step>Use a chip scraper or brush when clearing away chips, oil, or coolant.</step>
+                <step>Always examine all tools, fixtures, workpieces, and guarding for signs of damage. Replace any damaged components as soon as you find them. The enclosure and other guards may not stop all types of projectiles, like broken tools or loose workpieces.</step>
+                <step>Always stop the machine and verify that all machine motions have completely stopped before taking any manual action within the machine enclosure.</step>
+                <step>When machining an unproven operation, always use the proper precautions, including feed, speed, and maximum velocity overrides, Distance-to-Go (DTG) displays, single block, feed hold, and other control features.</step>
+                <step>Always follow all machine standards, and do not deviate from standard operating procedures.</step>
+                <step>Always respect the machine and its capabilities</step>
             </procedure>
             <procedure title="DONT's">
-                <step>Never operate the machine after consuming alcohol or
-                    taking medication that could prevent you from safely
-                    operating the machine.</step>
+                <step>Never operate the machine after consuming alcohol or taking medication that could prevent you from safely operating the machine.</step>
                 <step>Never operate the machine while tired or otherwise impaired.</step>
                 <step>Never enter the machining envelope.</step>
                 <step>Never reach around a guard.</step>
