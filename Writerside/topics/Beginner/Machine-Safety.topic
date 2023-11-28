@@ -5,6 +5,8 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Machine Safety" id="Machine-Safety">
 
+        <link-summary>Learn how to remain safe around the machine.</link-summary>
+
         <tldr>
             <p>In this lesson, we will learn how to remain safe around the machine.</p>
         </tldr>
@@ -26,19 +28,21 @@
                 <p>You can download the safety section of the manual here:</p>
                 <res resource-id="tormach-safety"/>
             </tip>
-            <procedure title="Layout of the machine">
-                <step>Find the on/off toggle</step>
-                <step>Find the emergency stop</step>
-                <step>Find the compressed air hose</step>
-                <step>Notice the lack of door switch</step>
-                <step>Find the reset button</step>
-            </procedure>
-            <procedure title="Best Practices">
-                <step>What is the proper procedure if the machine crashes?</step>
-                <step>What is the best way to protect yourself from sharp chips and excess coolant?</step>
-                <step>Recognize proper attire: Tie up long hair, wear close-toed shoes, and no excessively baggy clothing.</step>
-                <step>Recognize the importance of a clean work area.</step>
-            </procedure>
+            <p>This topic is available in both video and text form. The transcript of the video can be viewed <a href="Safety Video Transcript.topic">here</a>, and can be watched below this paragraph. The text bullet points are below the video, please review them after watching.</p>
+<!--            <procedure title="Layout of the machine">-->
+<!--                <step>Find the on/off toggle</step>-->
+<!--                <step>Find the emergency stop</step>-->
+<!--                <step>Find the compressed air hose</step>-->
+<!--                <step>Notice the lack of door switch</step>-->
+<!--                <step>Find the reset button</step>-->
+<!--            </procedure>-->
+<!--            <procedure title="Best Practices">-->
+<!--                <step>What is the proper procedure if the machine crashes?</step>-->
+<!--                <step>What is the best way to protect yourself from sharp chips and excess coolant?</step>-->
+<!--                <step>Recognize proper attire: Tie up long hair, wear close-toed shoes, and no excessively baggy clothing.</step>-->
+<!--                <step>Recognize the importance of a clean work area.</step>-->
+<!--            </procedure>-->
+            <video src="https://www.youtu.be/dQw4w9WgXcQ"/>
             <procedure title="DO's">
                 <step>Always keep the work area clean and free of clutter. Machine motion can occur if controls are accidentally activated.</step>
                 <step>Always immediately clean up all spills after they occur.</step>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Machine and Software Outline" id="Machine-and-Software-Outline">
+
+        <tldr>
+            <p>In this lesson, we will learn the basics of how to operate the machine, from starting it up, to running toolpaths, to shutting it down.</p>
+        </tldr>
+
+        <show-structure for="chapter,procedure" depth="2" />
+        
+        <chapter title="Prerequisites" id="prerequisites">
+            <p>To start the lesson, please know at least the following:</p>
+            <list>
+                <li>Safety procedures, as taught in <a href="Machine-Safety.topic">the safety lesson</a></li>
+                <li>Have your machine toolpaths exported to a flash drive. Your toolpaths should have been made in the <a href="CAD-CAM-Basics.topic">CAD &amp; CAM lesson</a></li>
+            </list>
+        </chapter>
+    
+        <chapter title="Lesson" id="lesson">
+            <warning>Mistakes are okay, if not encouraged. Call an instructor immediately if something goes wrong. You are required to follow all <a href="Machine-Safety.topic">safety procedures</a>. If you do not do so, your operation privileges may be revoked.</warning>
+            <procedure title="Machine Outline">
+                <step>Find the main power switch: on the back of the right side of the machine</step>
+                <step>Find the tool release button: on the spindle head, labeled.</step>
+                <step>Find the emergency stop button: on the computer tray</step>
+                <step>Find where the computer (the computer itself, not the monitor) is located: in a cabinet in the base of the right side of the machine.</step>
+                <step>Find where to insert a flash drive: In the USB port underneath the monitor</step>
+            </procedure>
+            <procedure title="Finding Tools">
+                <step>Find where the vise wrench is located: in the second-to-top drawer</step>
+                <step>Find the machine tools: on top of the bench</step>
+                <step>Find the parallels: in the red box</step>
+                <step>Find the machine manual</step>
+                <step>Notice the numbered tool system</step>
+            </procedure>
+            <procedure title="Starting Up">
+                <step>Turn the main breaker from the "off" position to the "on" position. Enclosure lights should turn on.</step>
+                <step>Check the monitor for the boot screen. If it doesn't show up within around 15 seconds, press the power button on the computer. (in the cabinet)</step>
+                <step>Give the E-Stop a clockwise twist to undo it, and wait for PathPilot to finish booting up.</step>
+                <step>Press the physical reset button. It should light up, and a "thunk" sound should be heard. (Don't worry if you don't hear the thunk, it is not necessarily an indicator of anything.)</step>
+                <step>Click the digital reset button (flashing blue/white on screen)</step>
+                <step>Reference the X, Y, and Z axis by clicking on the "Ref" buttons to the right of each axis readout. Can be done simultaneously.</step>
+                <step>Wait for all machine motion to stop, Reference buttons should have a small green dot in the top right of them.</step>
+                <step>Success! Machine has now fully started, and is ready for operation.</step>
+            </procedure>
+            <procedure title="Loading your file">
+                <note>This will only be a VERY basic tutorial. More detailed information can be found in the manual here: <res resource-id="tormach-pathpilot" /></note>
+                <step>Insert a flash drive containing your finished g-code into the machine.</step>
+                <step>Go to the "Files" tab on the computer</step>
+                <step>Notice the layout. Internal files on the left, USB / Remote files in the middle, and preview on the right.</step>
+                <step>In the internal files area, create a folde and name it with your full name. This will be where you store all your files.</step>
+                <step>Double-click on the folder you just created to enter it.</step>
+                <step>Find your files on the flash drive, in the center panel.</step>
+                <step>Hold "ctrl" while clicking on your files to select them.</step>
+                <step>Press the "copy" button with the arrow facing left. This will copy your files from the flash drive on to the system.</step>
+                <step>In the internal files panel, click on your first operation. Click the "Load G-Code" button at the top of the screen.</step>
+            </procedure>
+        </chapter>
+</topic>

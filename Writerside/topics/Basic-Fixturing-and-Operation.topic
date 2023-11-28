@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Basic Fixturing and Operation" id="Basic-Fixturing-and-Operation">
+
+        <tldr>
+            <p>In this lesson, we will...</p>
+        </tldr>
+        
+        <chapter title="Prerequisites" id="prerequisites">
+            <p>To start the lesson, please know at least the following:</p>
+            <list>
+                <li>This</li>
+            </list>
+        </chapter>
+    
+        <chapter title="Lesson" id="lesson">
+            
+        </chapter>
+</topic>

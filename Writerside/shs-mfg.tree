@@ -4,15 +4,20 @@
 
 <instance-profile id="shs-mfg"
                  name="SHS Shop Curriculum"
-                 start-page="Intro.topic"
+                 start-page="Preamble.topic"
                   status="eap">
 
-    <toc-element topic="Intro.topic"/>
+    <toc-element topic="Preamble.topic"/>
     <toc-element topic="1100M-Tutorial.topic">
         <toc-element toc-title="Beginner Course">
             <toc-element topic="CAD-CAM-Basics.topic" toc-title="CAD &amp; CAM"/>
             <toc-element topic="Machine-Safety.topic" toc-title="Safety" />
+            <toc-element topic="Machine-and-Software-Outline.topic"/>
+            <toc-element topic="Basic-Fixturing-and-Operation.topic"/>
         </toc-element>
+    </toc-element>
+    <toc-element toc-title="Video Transcripts">
+        <toc-element topic="Safety Video Transcript.topic" toc-title="Safety Video" />
     </toc-element>
     <toc-element topic="Glossary.topic"/>
 </instance-profile>

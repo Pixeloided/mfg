@@ -4,4 +4,5 @@
 <resources>
     <resource id="domino" file="domino.dxf" />
     <resource id="tormach-safety" file="Tormach 1100M® Safety.pdf" />
+    <resource id="tormach-pathpilot" file="Tormach 1100M PathPilot.pdf" />
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Preamble" id="Preamble" help-id="Intro">
+
+    <p>Welcome to our shop! We've got everything you need to learn and master our machines. This curriculum was developed over the course of a year by a student, to reduce instructor workload and increase consistency between students.</p>
+    <p>Goals:</p>
+    <list>
+        <li>Create a unified curriculum that is accessible to all students.</li>
+        <li>Increase consistency, unity, and quality between each student's learning experience.</li>
+        <li>Allow for students to learn at their own pace.</li>
+        <li>Allow students to learn to the extent that they find satisfying</li>
+    </list>
+</topic>

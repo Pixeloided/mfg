@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Safety Video Transcript" id="Safety Video Transcript" help-id="Empty-XML-Topic">
+
+    <link-summary>Typed safety video transcript</link-summary>
+
+    <p>Hi there, and welcome to the Sehome manufacturing curriculum series. Today, we’ll start off by learning the basic safety protocols to use around our machines. Before we get started, you’ll need to make sure you are already at least somewhat familiar with basic CNC terms. If you are unsure of anything, feel free to visit the glossary on the website.</p>
+    <p>Let’s start off with the very basics. We want to maintain a clean and well-organized environment, for space, and peace of mind. While it is inevitable that you will make a mess at some point, please do your best to keep it to a minimum, and be courteous of others that may use the machine after you. If there is a spill, leak, or anything similar, please clean it up as soon as you can and don’t leave it for the next person to take care of. Keep drawers and shelves well-organized and free of debris, and clean the inside of the machine after your job has been completed. This includes swarf buildup, or excess coolant on the bed.</p>
+    <p>Now, it is almost unavoidable that you will crash the machine at some point. And that’s fine! But, don’t take this as me saying that you’re allowed to crash the machine whenever you want. A severe crash can cause extensive damage to different parts of the machine, and we want to avoid this at all costs, because downtime means time you (and others) can’t run the machine.</p>
+    <p>In order to avoid crashing, we need to remain cautious of the machine- you can never be comfortable. We’ll be covering how to prevent crashes more in the future, in lessons where you’ll learn things that have the possibility of crashing the machine, but I want you to keep the main idea in mind, whenever you are operating the machine: Be cautious, and always double check everything.</p>
+    <p>With that in mind, here are some additional safety tips to keep in mind:</p>
+    <list>
+        <li>Wear safety glasses and hearing protection when operating the machine</li>
+        <li>Never operate the machine if you are tired or distracted.</li>
+        <li>Make sure the workpiece is properly secured before starting any work.</li>
+        <li>Be aware of your surroundings.</li>
+        <li>If you see anything that looks unsafe, stop the machine immediately and report it to a supervisor.</li>
+    </list>
+    <p>By following these safety tips, you can help to ensure your safety and the safety of others in the shop.</p>
+</topic>
